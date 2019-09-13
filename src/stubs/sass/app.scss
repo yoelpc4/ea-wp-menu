@@ -1,0 +1,52 @@
+@import "variable";
+
+//Colors
+@import "colors/default";
+@import "colors/green";
+@import "colors/megna";
+@import "colors/purple";
+@import "colors/red";
+@import "colors/blue";
+@import "colors/blue-dark";
+@import "colors/default-dark";
+@import "colors/green-dark";
+@import "colors/red-dark";
+@import "colors/megna-dark";
+@import "colors/purple-dark";
+
+// Import Bootstrap source files
+@import "~bootstrap/scss/bootstrap";
+
+//This is for the icons";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+@import "~themify-icons-scss/scss/themify-icons";
+
+// import select2
+@import "~select2/dist/css/select2.min.css";
+
+// import bootstrap datepicker
+@import "~bootstrap-datepicker/dist/css/bootstrap-datepicker.css";
+
+// import dropzone
+@import '~dropzone/dist/dropzone.css';
+
+// import datatables
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.min.css";
+@import "~datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css";
+
+// import sweetalert2
+@import "~sweetalert2/dist/sweetalert2.min.css";
+
+// import nprogress
+@import "~nprogress/nprogress.css";
+
+//This is the core files
+@import "core/core";
+@import "widgets/widgets";
+@import "responsive";
+
+// import custom
+@import "custom/app";

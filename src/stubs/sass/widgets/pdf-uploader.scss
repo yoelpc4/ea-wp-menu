@@ -1,0 +1,40 @@
+.pdf_dialog {
+    padding: 5px;
+    display: block;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.pdf_file {
+    display: none;
+}
+
+.pdf_loader {
+    display: none;
+    vertical-align: middle;
+    color: #cccccc;
+    font-size: 12px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.pdf_preview {
+    display: none;
+    vertical-align: middle;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+    margin: 0 auto;
+}
+
+.pdf_note {
+    display: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin: 20px auto 0 auto;
+}
+
+.pdf_cancel {
+    display: none;
+    vertical-align: middle;
+    margin: 10px auto 0 auto;
+}

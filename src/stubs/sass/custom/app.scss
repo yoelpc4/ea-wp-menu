@@ -1,0 +1,14 @@
+@import "../variable";
+
+#nprogress .bar {
+  background: $yellow;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px $yellow, 0 0 5px $yellow;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: $yellow;
+  border-left-color: $yellow;
+}

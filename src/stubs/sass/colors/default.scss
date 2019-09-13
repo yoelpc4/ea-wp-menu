@@ -1,0 +1,40 @@
+// Default colors
+.skin-default {
+  /*Theme Colors*/
+  $themecolor: #fb9678;
+  $themecolor-alt: #26c6da;
+  $sidebar: #2b2b2b;
+  $sidebar-alt: #1f2023;
+  $sidebar-text: #8d97ad;
+  $sidebar-icons: #787f91;
+  // Topbar
+  .topbar {
+    background: $themecolor;
+  }
+  //SidebarComposer
+  .sidebar-nav {
+    ul li a {
+      &.active,
+      &:hover {
+        color: $themecolor;
+        i {
+          color: $themecolor;
+        }
+      }
+    }
+    > ul > li {
+      &.active > a {
+        color: $themecolor;
+        border-left: 3px solid $themecolor;
+        i {
+          color: $themecolor;
+        }
+      }
+    }
+  }
+
+  //Bread-crumb
+  .page-titles .breadcrumb .breadcrumb-item.active {
+    color: $themecolor;
+  }
+}

@@ -1,0 +1,36 @@
+// import variable
+@import "variable";
+
+// import Colors
+@import "colors/default";
+@import "colors/green";
+@import "colors/megna";
+@import "colors/purple";
+@import "colors/red";
+@import "colors/blue";
+@import "colors/blue-dark";
+@import "colors/default-dark";
+@import "colors/green-dark";
+@import "colors/red-dark";
+@import "colors/megna-dark";
+@import "colors/purple-dark";
+
+// import Bootstrap source files
+@import "~bootstrap/scss/bootstrap";
+
+// this is for the icons
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/regular.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+@import "~themify-icons-scss/scss/themify-icons";
+
+// import login-register files
+@import "pages/login-register-lock";
+
+// import sweetalert2
+@import "~sweetalert2/dist/sweetalert2.min.css";
+
+// this is the core files
+@import "core/core";
+@import "responsive";
