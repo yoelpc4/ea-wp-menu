@@ -21,13 +21,6 @@
     "illuminate/console": "5.8.*",
     "illuminate/support": "5.8.*"
   },
-  "suggest": {
-    "laravelcollective/html": "Plugin to build form input (v5.8.1)",
-    "realrashid/sweet-alert": "Plugin to build alert",
-    "yajra/laravel-datatables-oracle": "Plugin to build datatables",
-    "yajra/laravel-datatables-buttons": "Plugin to build datatables button",
-    "yoelpc4/laravel-attachment": "Plugin to build attachment manager (v1.0.0)"
-  },
   "autoload": {
     "psr-4": {
       "Yoelpc4\\EAWpMenu\\": "src/"
