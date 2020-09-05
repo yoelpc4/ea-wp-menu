@@ -1,7 +1,7 @@
 # EA Wp Menu
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Packagist][ico-version]][link-packagist]
+[![Downloads][ico-downloads]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Contributor Covenant][ico-code-of-conduct]](CODE_OF_CONDUCT.md)
 
@@ -94,6 +94,6 @@ The EA Wp Menu Preset is open-sourced software licensed under the [MIT license](
 [ico-version]: https://img.shields.io/packagist/v/yoelpc4/ea-wp-menu.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/yoelpc4/ea-wp-menu.svg?style=flat-square
 [ico-license]: https://img.shields.io/packagist/l/yoelpc4/ea-wp-menu.svg?style=flat-square
-[ico-code-of-conduct]: https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg
+[ico-code-of-conduct]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
+
 [link-packagist]: https://packagist.org/packages/yoelpc4/ea-wp-menu
-[link-downloads]: https://packagist.org/packages/yoelpc4/ea-wp-menu
